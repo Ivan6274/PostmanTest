@@ -10,7 +10,7 @@ build: off
 
 install:
   
- 
+
   - chmod +x gradlew
 
 build_script:
